@@ -1,0 +1,21 @@
+{
+  "name": "local",
+  "version": "1.0.0",
+  "description": "trying out otp auth with hubtel",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "hubtel",
+    "auth",
+    "otp"
+  ],
+  "author": "Vincent Kwaku Kpemlie",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
